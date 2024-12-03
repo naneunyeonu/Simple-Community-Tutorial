@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+// 아래의 어노테이션은 lombok에서 제공함
 @Data
 /*
 @Data -> Getter, Setter 등의 기능들을 자동생성,,
